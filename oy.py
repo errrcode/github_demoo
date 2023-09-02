@@ -1,1 +1,1 @@
-
+print("love u gadhe")
